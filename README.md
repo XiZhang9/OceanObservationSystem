@@ -1,2 +1,1 @@
-This is an web-based database application. This application was implemented using PHP, HTML and Oracle. Ocean Obsercation System stores
-different types of information.
+This is an web-based database application. This application was implemented using PHP, HTML and Oracle. Ocean Obsercation System stores different types of information from sensors in different locations. Scientist can modift their sensors. They can also generate and display OLAP report to analysis scale data.
